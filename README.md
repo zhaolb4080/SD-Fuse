@@ -1,7 +1,7 @@
 # SD-Fuse
 (2025' Information Fusion) This is the offical implementation for the paper titled "SD-Fuse: An image structure-driven model for multi-focus image fusion". https://doi.org/10.1016/j.inffus.2025.104058
 
-### Model Weights
+### Checkpoints
 
 PyTorch model weights are available on Google Drive. The current release is based on a traditional Sobel feature extractor; additional models will be released in future updates.
 
