@@ -12,8 +12,8 @@ from PIL import Image
 import torch
 import torch.nn.functional as F
 
-# 你的工程文件
-from network1 import SD_Fuse_Net, ResT, build_structure_extractor
+
+from network import SD_Fuse_Net, ResT, build_structure_extractor
 
 
 IMG_EXTS = {".jpg", ".jpeg", ".png", ".bmp", ".tif", ".tiff"}
@@ -334,3 +334,4 @@ def main():
 
 if __name__ == "__main__":
     main()
+
