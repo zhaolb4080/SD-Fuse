@@ -11,9 +11,12 @@ PyTorch model weights are available on Google Drive. The current release is base
 
 Using the MFI-WHU dataset as an example. Run the following command to test the model:
 
---near_dir`: near-focus images (MFI-WHU source_1) \\
---far_dir`: far-focus images (MFI-WHU source_2) \\
---ckpt`: path to the `.pt` weights  \\
+--near_dir`: near-focus images (MFI-WHU source_1)  
+
+--far_dir`: far-focus images (MFI-WHU source_2)  
+
+--ckpt`: path to the `.pt` weights  
+
 --out_fuse_dir`: output directory for fused results
 
 ```bash
