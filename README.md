@@ -14,7 +14,7 @@ Run the following command to test the model:
 ```bash
 python test.py --near_dir ./testdata/MFI-WHU/source_1 --far_dir ./testdata/MFI-WHU/source_2 --ckpt ./sobel_best.pt --out_fuse_dir ./outputs_MFIWHU_test/fuse
 
-- --near_dir`: near-focus images  
-- --far_dir`: far-focus images  
-- --ckpt`: path to the `.pt` weights  
-- --out_fuse_dir`: output directory for fused results
+--near_dir`: near-focus images  
+--far_dir`: far-focus images  
+--ckpt`: path to the `.pt` weights  
+--out_fuse_dir`: output directory for fused results
