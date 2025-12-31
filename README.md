@@ -3,7 +3,7 @@
 
 ### Checkpoints
 
-PyTorch model weights are available on Google Drive. The current release is based on a traditional Sobel feature extractor; additional models will be released in future updates.
+PyTorch model weights are available on Google Drive. The current release is based on a traditional Sobel extractor; additional models will be released in future updates.
 
 - Download: [https://drive.google.com/file/d/1NrZi1GSvMPKtOHion3RPSoxq1iv8DXhE/view?usp=sharing](https://drive.google.com/file/d/1NrZi1GSvMPKtOHion3RPSoxq1iv8DXhE/view?usp=sharing)
 
